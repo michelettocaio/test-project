@@ -1,26 +1,28 @@
 # uds-project
 
-## Project setup
+Para executar o projeto, seguir os passos a seguir: 
+
+## Baixar o repositório
+```
+git clone https://github.com/michelettocaio/test-project.git
+```
+Entrar na pasta do projeto
+## Instalar as dependências
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Para rodar o projeto em modo de desenvolvimento:
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Para rodar o projeto em modo de produção:
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your end-to-end tests
+### Para rodar os testes automatizados:
 ```
 npm run test:e2e
 ```
